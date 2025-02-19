@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-argotlsupdate-feb19-2-database-config
+data:
+  VECTORDB_HOST: "test-argotlsupdate-feb19-2-database"
+  VECTORDB_PORT: ""
